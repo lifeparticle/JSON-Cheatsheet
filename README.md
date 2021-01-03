@@ -17,8 +17,6 @@
 # 2. Objects
 
 ```json
-
-```json
 {
 	"docker": [{
 		"title": "How to Run PostgreSQL Using Docker",
